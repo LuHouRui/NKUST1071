@@ -1,0 +1,5 @@
+期末專題
+
+組員：1105105320陳宗佑 1105105328呂厚銳
+分工：陳宗佑 => cshtml介面處理 呂厚銳 => 後端
+https://github.com/LuHouRui/FinalProject
